@@ -1,2 +1,2 @@
 # JiraTest
-Testing Jira and adding some stuff!
+Testing Jira and adding some stuff with test message.
